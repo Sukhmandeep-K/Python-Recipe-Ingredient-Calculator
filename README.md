@@ -37,5 +37,4 @@ Total ounces of Flour: 8.0
 Total ounces of Sugar: 4.0
 Total ounces of Butter: 2.0
 
-## Author
-Sukhmandeep Kaur
+
